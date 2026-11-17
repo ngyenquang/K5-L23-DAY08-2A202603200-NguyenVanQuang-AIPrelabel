@@ -5,7 +5,7 @@
 - Lớp (L2 / L3 / khác): L2
 - Tài khoản GitHub: ngyenquang
 - Repo bài nộp (URL): https://github.com/ngyenquang/K5-L23-DAY08-2A202603200-NguyenVanQuang-AIPrelabel
-- Commit chốt bài (hash): (điền sau commit cuối, lấy bằng `git rev-parse --short HEAD`)
+- Commit chốt bài (hash): 17ce57f
 - Máy: Windows 11, GPU NVIDIA RTX 3050 Ti 4 GB (CUDA) nhưng RAM chỉ 7,6 GB nên model chạy trên Google Colab (T4)
 - CVAT (Docker): v2.74.1
 
