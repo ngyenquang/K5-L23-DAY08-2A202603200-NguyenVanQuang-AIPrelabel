@@ -1,1 +1,2 @@
 step,images,minutes,note
+gold_manual,4,10 phút,"Gán tay 4 ảnh gold (img_001, 012, 020, 036) bằng Rectangle trong CVAT; không dùng AI, chưa xem pre-label. img_001 đông xe máy và người nhỏ nên mất nhiều thời gian nhất; vật cao dưới 20 px gộp vào ignore_region theo guideline 4.1.6. Kết quả 105 đối tượng, validate_labels OK."
