@@ -1,0 +1,6 @@
+image,object_id,error_type,reviewer,note
+img_003.jpg,,khong,"Nguyễn Văn Quang","Vòng 2: ảnh đông (22 vật), không thấy lỗi rõ; box nhỏ chồng nhau khó kiểm nên có thể còn sót"
+img_006.jpg,,khong,"Nguyễn Văn Quang","Vòng 2: ngõ đông xe máy và người (25 vật), không thấy lỗi rõ; box nhỏ chồng nhau khó kiểm nên có thể còn sót"
+img_014.jpg,,khong,"Nguyễn Văn Quang","Vòng 2: lỗi vòng 1 (box bicycle nhỏ ở xa) đã sửa thành person; còn vài box cao dưới 20 px ở góc phải trên (guideline 4.1.6 nên dùng ignore_region), ghi nhận nhưng không tính là lỗi nhãn"
+img_031.jpg,,khong,"Nguyễn Văn Quang","Vòng 2: box person bao chiếc mũ cam (vòng 1) đã xóa; còn 2 person và 1 bicycle đúng"
+img_035.jpg,,khong,"Nguyễn Văn Quang","Vòng 2: ảnh đông (32 vật), không thấy lỗi rõ; box nhỏ chồng nhau ở mép trái và phải khó kiểm nên có thể còn sót"
